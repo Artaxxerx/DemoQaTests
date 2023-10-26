@@ -1,0 +1,7 @@
+pages\ButtonsPage.class
+Tests\OpenBrowser.class
+Tests\Tests.class
+pages\BrowserWindowsPage.class
+pages\AlertsPage.class
+pages\TextBoxPage.class
+pages\MainPage.class
